@@ -1,7 +1,5 @@
 # ICND IFS
-ISO File System
-
-保留字
+ISO File System ，其保留字
 
 bootflash 開機快閃記憶體
 
