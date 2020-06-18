@@ -5,10 +5,12 @@ ISO File System ，及其保留字和特色
 
 使用 url 位址來標明檔案在網路中某項設備內，如要將交換器 nvram 中的指令或設定檔複製到 tftp 伺服器上，應輸入如下指令：
 
-(sw)#copy nvram: tftp://172.16.00.10/config.txt
+    (sw)#copy nvram: tftp://172.16.00.10/config.txt
 
 /* copy 後的 IFS 保留字是要備份的來源檔名或是 IFS 來源地 */
+
 /* IP 前面的 schema 是網路中的某項設備內 */
+
 /* IP 後是目的地檔名 */
 
 # 保留字
