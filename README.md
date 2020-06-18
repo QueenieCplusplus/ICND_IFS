@@ -5,6 +5,8 @@ bootflash 開機快閃記憶體
 
 flash 快閃記憶體(可改用 slot0 或是第二張 slot 稱為 slot1)
 
+flh 快閃記憶體載入之登陸檔
+
 ftp 使用檔案傳輸通訊協定的網路伺服器(現有 tftp)
 
 nvram 非變動式隨機存取記憶體
