@@ -7,6 +7,10 @@ ISO File System ，及其保留字和特色
 
 (sw)#copy nvram: tftp://172.16.00.10/config.txt
 
+/* copy 後的 IFS 保留字是要備份的來源檔名或是 IFS 來源地 */
+/* IP 前面的 schema 是網路中的某項設備內 */
+/* IP 後是目的地檔名 */
+
 # 保留字
 
 bootflash 開機快閃記憶體
